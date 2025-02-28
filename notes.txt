@@ -1,0 +1,8 @@
+Requisitos da Tabela:
+//- Criar um novo Schema de nome lancheSchema com os seguintes dados:
+  |_ nome, descricao, preco, imagem (todos do tipo String)
+//- Cadastrar 9 tipos de lanches (no campo imagem fornecer um caminho até a imagem (pasta img))
+//- Listar todos os lanches
+//- Listar um lanche pelo nome
+//- Alterar os dados de um lanche
+- Excluir um lanche 
